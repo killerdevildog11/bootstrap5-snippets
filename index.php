@@ -35,6 +35,8 @@
     
       <?php 
         require_once("./bootstrap5_hero_snipets.php") ; 
+        require_once( "./bootstrap5_content_snippets.php" ) ; 
+        require_once( "./bootstrap5_features.php" ) ; 
         require_once("./bootstrap5_footer_snipets.php") ; 
 
       ?>
