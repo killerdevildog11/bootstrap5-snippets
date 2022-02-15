@@ -37,6 +37,13 @@
         require_once("./bootstrap5_hero_snipets.php") ; 
         require_once( "./bootstrap5_content_snippets.php" ) ; 
         require_once( "./bootstrap5_features.php" ) ; 
+        require_once( "./bootstrap5_galler_snippets.php" ) ; 
+        require_once("./bootstrap5_calls_to_action.php") ; 
+        require_once("./bootstrap5_team_sectoin.php") ; 
+        require_once("./bootstrap5_pricing_tables.php") ; 
+        require_once("./bootstrap5_testimonials.php") ; 
+        require_once("./bootstrap5_faq_snippets.php") ; 
+        require_once("./bootstrap5_contact_snippets.php") ; 
         require_once("./bootstrap5_footer_snipets.php") ; 
 
       ?>

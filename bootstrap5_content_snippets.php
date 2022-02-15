@@ -29,7 +29,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -70,7 +71,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -124,7 +126,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -157,7 +160,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -296,7 +300,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -347,7 +352,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -404,64 +410,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="container py-5 text-center">
-	<div class="row">
-		<div class="col-md-8 offset-md-2 px-4">
-			<div class="lc-block mb-4">
-				<div editable="rich">
-					<h2>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-						Vestibulum tortor.</h2>
-				</div>
-			</div>
-			<div class="lc-block mb-4">
-				<div editable="rich">
-					<p>Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.&nbsp;</p>
-				</div>
-			</div>
-			<div class="lc-block" style="letter-spacing:5px">
-				<blockquote class="blockquote ">
-					<p editable="inline" class="mb-0"><b>M.J Fox</b></p>
-				</blockquote>
-			</div>
-			<div class="lc-block text-secondary">
-				<div editable="rich">
-					<p>Vestibulum erat wisi</p>
-				</div>
-			</div><!-- /lc-block -->
-		</div><!-- /col -->
-	</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -511,6 +461,8 @@
 
 
 
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -518,9 +470,40 @@
 
 
 
+<div class="container py-5 text-center">
+	<div class="row">
+		<div class="col-md-8 offset-md-2 px-4">
+			<div class="lc-block mb-4">
+				<div editable="rich">
+					<h2>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+						Vestibulum tortor.</h2>
+				</div>
+			</div>
+			<div class="lc-block mb-4">
+				<div editable="rich">
+					<p>Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.&nbsp;</p>
+				</div>
+			</div>
+			<div class="lc-block" style="letter-spacing:5px">
+				<blockquote class="blockquote ">
+					<p editable="inline" class="mb-0"><b>M.J Fox</b></p>
+				</blockquote>
+			</div>
+			<div class="lc-block text-secondary">
+				<div editable="rich">
+					<p>Vestibulum erat wisi</p>
+				</div>
+			</div><!-- /lc-block -->
+		</div><!-- /col -->
+	</div>
+</div>
 
 
 
+
+
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -564,10 +547,8 @@
 
 
 
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -613,7 +594,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -652,23 +634,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -719,24 +686,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -883,7 +834,8 @@
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -930,17 +882,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -996,19 +939,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1043,13 +975,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1158,12 +1085,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1201,15 +1124,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1271,12 +1187,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1369,15 +1281,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1449,15 +1354,8 @@ width:100%">
 
 
 
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1491,7 +1389,8 @@ width:100%">
 
 
 
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1596,35 +1495,5 @@ width:100%">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">

@@ -98,11 +98,8 @@
 
 
 
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -213,16 +210,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -347,17 +336,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -478,24 +458,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -550,22 +514,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -630,18 +580,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -777,13 +717,8 @@
 
 
 
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -907,22 +842,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -987,23 +908,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1085,19 +991,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1116,8 +1011,7 @@
 	</div>
 
 	<div class="row justify-content-center">
-		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;
-}">
+		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;">
 			<div class="lc-block text-center">
 				<img class="img-fluid" src="https://cdn.livecanvas.com/media/svg/undraw-sample/undraw_connected_world_wuay.svg" style="height:50px;">
 			</div>
@@ -1133,8 +1027,7 @@
 				</div>
 			</div><!-- /lc-block -->
 		</div>
-		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;
-}">
+		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;">
 			<div class="lc-block text-center">
 				<img class="img-fluid" src="https://cdn.livecanvas.com/media/svg/undraw-sample/undraw_wordpress_utxt.svg" style="height:50px;
 ">
@@ -1151,9 +1044,7 @@
 				</div>
 			</div><!-- /lc-block -->
 		</div>
-		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="
-transition: all 0.3s ease-in-out;
-}">
+		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out; ">
 			<div class="lc-block text-center">
 				<img class="img-fluid" src="https://cdn.livecanvas.com/media/svg/undraw-sample/undraw_world_9iqb.svg" style="height:50px;
 ">
@@ -1172,9 +1063,7 @@ transition: all 0.3s ease-in-out;
 		</div>
 	</div>
 	<div class="row justify-content-center">
-		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="
-transition: all 0.3s ease-in-out;
-}">
+		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;">
 			<div class="lc-block text-center">
 				<img class="img-fluid" src="https://cdn.livecanvas.com/media/svg/undraw-sample/undraw_steps_ngvm.svg" style="height:50px;">
 			</div>
@@ -1190,9 +1079,7 @@ transition: all 0.3s ease-in-out;
 				</div>
 			</div><!-- /lc-block -->
 		</div>
-		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="
-transition: all 0.3s ease-in-out;
-}">
+		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;">
 			<div class="lc-block text-center">
 				<img class="img-fluid" src="https://cdn.livecanvas.com/media/svg/undraw-sample/undraw_video_influencer_9oyy.svg" style="height:50px;
 ">
@@ -1209,9 +1096,7 @@ transition: all 0.3s ease-in-out;
 				</div>
 			</div><!-- /lc-block -->
 		</div>
-		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="
-transition: all 0.3s ease-in-out;
-}">
+		<div class="col-md-7 col-lg-3 me-lg-4 rounded shadow-sm my-4 p-3" style="transition: all 0.3s ease-in-out;">
 			<div class="lc-block text-center">
 				<img class="img-fluid" src="https://cdn.livecanvas.com/media/svg/undraw-sample/undraw_Mobile_application_mr4r.svg" style="height:50px;
 ">
@@ -1234,23 +1119,8 @@ transition: all 0.3s ease-in-out;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1338,21 +1208,8 @@ transition: all 0.3s ease-in-out;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1408,20 +1265,8 @@ transition: all 0.3s ease-in-out;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1520,15 +1365,8 @@ transition: all 0.3s ease-in-out;
 
 
 
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
 
 
@@ -1637,56 +1475,5 @@ transition: all 0.3s ease-in-out;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
