@@ -1,3 +1,8 @@
+content snippets
+
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
+
 <div class="container py-md-6 py-4">
    <div class="row justify-content-center">
       <div class="col-xl-10">
@@ -1172,7 +1177,7 @@ width:100%">
 					<div class="card-body text-center">
 						<h3 class="card-title mb-5" editable="inline">Card title</h3>
 						<!-- <h4 class="card-subtitle" editable="inline">Card subtitle</h4> -->
-						<a class="btn btn-link" href="#" role="button">Click me, I'm a button</a>
+						<a class="btn btn-link" href="#" role="button">Click me, I'm a button too</a>
 					</div>
 				</div>
 			</div>
@@ -1490,7 +1495,12 @@ width:100%">
 
 
 
+<hr class="bg-danger border-5 border-top border-danger">
+<hr class="bg-danger border-5 border-top border-danger">
 
+
+
+end of code snippets 
 
 
 

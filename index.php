@@ -48,12 +48,16 @@
         require_once("./bootstrap5_contact_snippets.php") ; 
         require_once("./bootstrap5_footer_snipets.php") ; 
 
+        require_once("./hp.php") ; 
+       
+
 
       ?>
 
 
 
 
+    <script src="./resources/popper/popper2.4.4.js"></script>
     <script src="./resources/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" ></script>
 
       
